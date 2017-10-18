@@ -12,6 +12,7 @@ public class EjemploExcepciones
     {
         try
         {
+            //
             // Para el manejo de un archivo.
             // Para los errores sale un comentario en azul en el error y presionas alt+Intro.
             // Para crear un archivo.txt das click derecho a excepciones -> new -> File y le pones el nombre, en este caso entrada.txt
